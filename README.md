@@ -12,6 +12,10 @@
   <img  alt="PK-React" src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=React">
   <img  alt="PK-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js">
 </p>
+<p align="center">
+  <img  alt="PK-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL">
+  <img  alt="PK-Firebase" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=Firebase">
+</p>
 
 <h2 align="center">Social</h2>
 
