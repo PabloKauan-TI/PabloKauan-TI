@@ -5,6 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloKauan-TI&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloKauan-TI&layout=compact&langs_count=7&theme=tokyonight"/>  
 </p>
+  
+<p align="center">
+  <img  alt="PK-PHP" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP">
+  <img  alt="PK-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
+  <img  alt="PK-React" src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=React">
+  <img  alt="PK-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js">
+</p>
 
 <h2 align="center">Social</h2>
 
