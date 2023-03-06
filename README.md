@@ -10,7 +10,7 @@
   <img  alt="PK-PHP" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP">
   <img  alt="PK-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
   <img  alt="PK-React" src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=React">
-  <img  alt="PK-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js">
+  <img  alt="PK-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=Node.js">
 </p>
 <p align="center">
   <img  alt="PK-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL">
