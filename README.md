@@ -1,22 +1,7 @@
-<h2 align="center">Profile Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/PabloKauan-TI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloKauan-TI&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloKauan-TI&layout=compact&langs_count=6&theme=tokyonight"/>  
-</p>
-  
-<p align="center">
-  <img  alt="PK-PHP" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP">
-  <img  alt="PK-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
-  <img  alt="PK-React" src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=React">
-  <img  alt="PK-Node" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=Node.js">
-</p>
-<p align="center">
-  <img  alt="PK-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL">
-  <img  alt="PK-Firebase" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=Firebase">
-</p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=298508&textBg=false&reversal=false&section=header&fontSize=60&fontColor=fff"></img>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0000&color=298508&center=false&repeat=false&random=false&width=600&lines=Hi%2C+I'm+Pablo+Kauan." /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=4000&pause=0000&color=298508&multiline=true&repeat=false&width=1100&height=130&lines=I'm+a+Full-Stack+Developer%2C+currently+using+languages+such+as+PHP%2C+Python;and+JAVA+in+my+daily+life.+Linked+to+relational+databases+such+as%3A+Postregre;SQL%2C+MySQL%2C+SQLite...+These+are+my+main+stacks.;Currently+I+have+been+studying+the+use+of+Laravel+and+Vue.js." /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=4000&pause=0000&color=298508&multiline=true&repeat=false&width=1100&height=130&lines=I'm+studying+Computer+Science+at+UFC%2C+today+I'm+in+the+4th+academic+semes;ter%2C+within+the+university+I'm+deepening+my+knowledge+and+learning+new+ar;eas+such+as+machine+learning+and+robotics." />
 <h2 align="center">Social</h2>
 
 <p align="center">
