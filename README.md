@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Pablo%20Kauan&fontSize=50&fontAlignY=38&desc=Software%20Engineer&descAlignY=61&descSize=20&fontColor=ffffff" width="100%" alt="Banner Pablo Kauan" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher+%40+UFC;Full-Stack+Developer;Tech+Lead" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Researcher+%40+UFC;Full-Stack+Developer;Tech+Lead" alt="Typing Animation" />
   </a>
 </div>
 
